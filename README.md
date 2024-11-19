@@ -63,9 +63,10 @@ write.csv(appls, file = "clustered_applications.csv", row.names = FALSE)
 
 ## Vignette 2: Using RePORTER data
 
-First, read in the `get_nih_reporter()` functions used to gather the data. 
+First, read in the `get_nih_reporter()` functions used to gather the data and the `vbic_classify()` functions to do the classification. 
 ```r
 source("get_nih_reporter.r")
+source("vbic_classify.r")
 ```
 
 Next, create the query you want to run and retrieve data for. In this case, we'll return all grants administered by NICHD that are currently active, excluding subprojects.
