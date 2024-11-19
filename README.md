@@ -43,7 +43,7 @@ tterms <- read.csv("nichd_theme_terms2.csv", stringsAsFactors = FALSE, allowEsca
 tterms <- tterms[grepl("theme|ncmrr", tterms$concept),]
 ```
 
-Next, run the classification algorithm to assign concepts to documents. In this case, we want to classify documents in `appls` using the term vocabulary `tterms`. The default concept score (the `concept_threshold` argument) is set at 20, but you might want to increase that to as high as 50, depending on how targeted you want the resulting classifications to be. See [my vbic repo] (https://github.com/christopherBelter/vbic) for more details on how the algorithm works. Depending on how many documents you have, this might take several minutes to run. 
+Next, run the classification algorithm to assign concepts to documents. In this case, we want to classify documents in `appls` using the term vocabulary `tterms`. The default concept score (the `concept_threshold` argument) is set at 20, but you might want to increase that to as high as 50, depending on how targeted you want the resulting classifications to be. See [my vbic repo](https://github.com/christopherBelter/vbic) for more details on how the algorithm works. Depending on how many documents you have, this might take several minutes to run. 
 ```r
 vbic_out <- vbic_classify(appls, tterms, doc_id_column = "appl_id", doc_text_column = "dtext")
 ```
