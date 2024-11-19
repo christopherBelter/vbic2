@@ -1,0 +1,902 @@
+term,concept,notes,weight
+\\bhous,disparities,,1
+\\bjail,disparities,,3
+\\brace,disparities,,3
+aapi,disparities,,3
+african[ -]american,disparities,,3
+alaska native,disparities,,3
+american indian,disparities,,3
+asian,disparities,,3
+asian[ -]american,disparities,,3
+bipoc,disparities,,3
+black,disparities,,3
+caucasian,disparities,,1
+census,disparities,,1
+communit,disparities,,1
+crimin,disparities,,1
+demograph,disparities,,3
+disadvantag,disparities,,3
+discrimin,disparities,,3
+disparit,disparities,,3
+disproport,disparities,,3
+econom,disparities,,1
+equit,disparities,,3
+ethnic,disparities,,3
+financ,disparities,,1
+geograph,disparities,,1
+hispan,disparities,,3
+immigr,disparities,,1
+incarcer,disparities,,1
+income,disparities,,1
+indigenous,disparities,,3
+intersect,disparities,,3
+justic,disparities,,1
+latin[oax],disparities,,3
+low[ -]incom,disparities,,3
+marginal,disparities,,3
+minorit,disparities,,3
+native,disparities,,1
+native alaska,disparities,,3
+native american,disparities,,3
+neighborhood,disparities,,1
+non[ -]white,disparities,,3
+people of color,disparities,,3
+popul,disparities,,1
+povert,disparities,,1
+prison,disparities,,1
+racial,disparities,,3
+reside,disparities,,1
+rural,disparities,,3
+socio[ -]demograph,disparities,,3
+socio[ -]econom,disparities,,3
+sociodemograph,disparities,,3
+socioeconom,disparities,,3
+tribal,disparities,,3
+tribe,disparities,,3
+underserv,disparities,,3
+unemploy,disparities,,1
+uninsur,disparities,,1
+vulnerab,disparities,,1
+white,disparities,,1
+zip code,disparities,,1
+\\basia\\b,global,,1
+\\bcontinent,global,,1
+\\bindia\\b,global,,3
+\\blassa\\b,global,,3
+\\bmali\\b,global,,3
+\\bniger\\b,global,,3
+\\bchad\\b,global,,3
+africa\\b,global,,3
+african[ -][b-z],global,,3
+african[ -]a[^m],global,,3
+algeria,global,,3
+angola,global,,3
+argentina,global,,3
+asian[ -][b-z],global,,3
+asian[ -]a[^m],global,,3
+australia,global,,3
+bangladesh,global,,3
+benin,global,,3
+bhutan,global,,3
+bolivia,global,,3
+botswana,global,,3
+brazil,global,,3
+burma,global,,3
+burundi,global,,3
+cambodia,global,,3
+cameroon,global,,3
+carribean,global,,3
+chile,global,,3
+colombia,global,,3
+congo,global,,3
+costa rica,global,,3
+countries,global,,1
+country,global,,1
+cultur,global,,1
+dengue,global,,3
+ebola,global,,3
+ecuador,global,,3
+egypt,global,,3
+el salvador,global,,3
+eritrea,global,,3
+ethiopia,global,,3
+europe,global,,1
+gabon,global,,3
+gambia,global,,3
+ghana,global,,3
+global,global,,1
+global health,global,,5
+guatemala,global,,3
+guinea,global,,3
+indonesia,global,,3
+international,global,,1
+japan,global,,3
+kenya,global,,3
+korea,global,,3
+laos,global,,3
+latin america,global,,3
+liberia,global,,3
+libya,global,,3
+lmic,global,,5
+low[ -]incom,global,,1
+madagascar,global,,3
+malaria,global,,3
+malawi,global,,3
+malaysia,global,,3
+mauritania,global,,3
+mexico,global,,1
+middle[ -]incom,global,,1
+morocco,global,,3
+mozambique,global,,3
+multi[ -]nation,global,,1
+multination,global,,1
+myanmar,global,,3
+namibia,global,,3
+nepal,global,,3
+new zealand,global,,3
+nicaragua,global,,3
+nigeria,global,,3
+pakistan,global,,3
+panama,global,,3
+paraguay,global,,3
+peru,global,,3
+philippines,global,,3
+region,global,,1
+resourc,global,,1
+rwanda,global,,3
+senegal,global,,3
+sierra leone,global,,3
+singapore,global,,3
+south africa,global,,3
+south america,global,,3
+sub[ -]sahar,global,,5
+sudan,global,,3
+taiwan,global,,3
+tanzania,global,,3
+thailand,global,,3
+uganda,global,,3
+uruguay,global,,3
+venezuela,global,,3
+vietnam,global,,3
+world,global,,1
+zambia,global,,3
+zika,global,,3
+zikv,global,,3
+zimbabwe,global,,3
+\\bb[ -]cell,infectious,,5
+\\bcmv\\b,infectious,,5
+\\bhcmv\\b,infectious,,5
+\\bhiv\\b,infectious,,5
+\\bmis[ -]c\\b,infectious,,5
+\\bpathogens*\\b,infectious,,5
+\\bprep\\b,infectious,,3
+\\brsv\\b,infectious,,3
+\\bsars\\b,infectious,,5
+\\bsiv\\b,infectious,,5
+\\bsti\\b,infectious,,5
+\\bt[ -]cell,infectious,,5
+\\btb\\b,infectious,,3
+anti[ -]retrovir,infectious,,5
+antibod,infectious,,5
+antigen,infectious,,5
+antiretrovir,infectious,,5
+bacteria,infectious,,3
+chagas,infectious,,5
+chlamydia,infectious,,5
+covid,infectious,,5
+cytomegalovirus,infectious,,5
+dendritic,infectious,,3
+dengue,infectious,,5
+epidemic,infectious,,3
+herpes,infectious,,5
+hiv[ -]aids,infectious,,5
+immun,infectious,,5
+infect,infectious,,5
+influenza,infectious,,5
+innate,infectious,,3
+malaria,infectious,,5
+pandemic,infectious,,3
+parasit,infectious,,5
+pathogenic,infectious,,5
+pnemonia,infectious,,5
+prophyla,infectious,,3
+strain,infectious,,1
+streptococcus,infectious,,5
+transmiss,infectious,,5
+tuberculosis,infectious,,5
+uninfect,infectious,,5
+vaccin,infectious,,5
+viral,infectious,,3
+virom,infectious,,5
+virus,infectious,,3
+yellow fever,infectious,,5
+zika,infectious,,5
+zikv,infectious,,5
+\\bankl,ncmrr,,3
+\\barm\\b,ncmrr,,3
+\\bcp\\b,ncmrr,,5
+\\bgait\\b,ncmrr,,3
+\\bhands*\\b,ncmrr,,3
+\\bleg\\b,ncmrr,,3
+\\bmotor\\b,ncmrr,,3
+\\bsci\\b,ncmrr,,5
+\\btbi\\b,ncmrr,,3
+abduct,ncmrr,,5
+actuat,ncmrr,,5
+amput,ncmrr,,5
+amyotrophic,ncmrr,,5
+aphasia,ncmrr,,5
+aerobic,ncmrr,,5
+ambulat,ncmrr,,5
+asymmetr,ncmrr,,1
+ataxia,ncmrr,,5
+athlet,ncmrr,,1
+balanc,ncmrr,,1
+\\bbelt,ncmrr,,3
+engineer,ncmrr,,1
+biomechan,ncmrr,,3
+biofeedback,ncmrr,,5
+bilater,ncmrr,,5
+bimanu,ncmrr,,5
+control,ncmrr,,1
+climb,ncmrr,,3
+command,ncmrr,,3
+cortico[ -]*spin,ncmrr,,5
+compensator,ncmrr,,3
+counter[ -]*measur,ncmrr,,3
+\\bcuff,ncmrr,,5
+lateral,ncmrr,,3
+daily,ncmrr,,1
+disabl,ncmrr,,1
+dexter,ncmrr,,5
+elbow,ncmrr,,5
+electrod,ncmrr,,5
+elecro[em],ncmrr,,3
+exercis,ncmrr,,3
+exoskeleton,ncmrr,,5
+extremit,ncmrr,,1
+\\bfall,ncmrr,,3
+fatigu,ncmrr,,1
+joint,ncmrr,,3
+flexion,ncmrr,,5
+flexor,ncmrr,,5
+foot,ncmrr,,3
+freedom,ncmrr,,3
+isometr,ncmrr,,5
+grasp,ncmrr,,3
+grip,ncmrr,,3
+knee,ncmrr,,3
+kinemat,ncmrr,,5
+kinesiolog,ncmrr,,5
+limb,ncmrr,,3
+locomotor,ncmrr,,5
+lumbar,ncmrr,,3
+mobility,ncmrr,,1
+movement,ncmrr,,1
+muscl,ncmrr,,1
+musculatur,ncmrr,,3
+neuromechan,ncmrr,,3
+neuromotor,ncmrr,,3
+paraly[sz],ncmrr,,3
+\\bpare[st],ncmrr,,5
+imping,ncmrr,,5
+orthot,ncmrr,,5
+osteoarthr,ncmrr,,5
+pals[yi],ncmrr,,3
+paretic,ncmrr,,5
+physical therap,ncmrr,,3
+plastic,ncmrr,,1
+percutan,ncmrr,,3
+postur,ncmrr,,3
+propuls,ncmrr,,3
+prosthe[st],ncmrr,,5
+quadricep,ncmrr,,3
+reflex,ncmrr,,3
+reconstruct,ncmrr,,1
+recover,ncmrr,,3
+regain,ncmrr,,3
+rehab,ncmrr,,5
+reintegr,ncmrr,,3
+restor,ncmrr,,1
+retrain,ncmrr,,5
+robot,ncmrr,,3
+rotat,ncmrr,,3
+sensor,ncmrr,,3
+scleros,ncmrr,,3
+spinal,ncmrr,,3
+strength,ncmrr,,1
+shoulder,ncmrr,,3
+stair,ncmrr,,3
+stan[cd],ncmrr,,1
+stationar,ncmrr,,3
+socket,ncmrr,,3
+stroke,ncmrr,,5
+stimul,ncmrr,,1
+survivor,ncmrr,,3
+tendon,ncmrr,,3
+task,ncmrr,,1
+transcran,ncmrr,,3
+transcutan,ncmrr,,3
+treadmill,ncmrr,,5
+trunk,ncmrr,,3
+volit,ncmrr,,3
+walk,ncmrr,,5
+wearabl,ncmrr,,3
+wheelchair,ncmrr,,5
+xfunction,ncmrr,,1
+\\bbmi\\b,nutrition,,3
+\\bcalor,nutrition,,3
+\\beat\\b,nutrition,,3
+\\beating\\b,nutrition,,3
+\\beats\\b,nutrition,,3
+\\bfats*\\b,nutrition,,3
+\\biron\\b,nutrition,,3
+\\bmeat,nutrition,,3
+adipos,nutrition,,3
+body mass,nutrition,,3
+body weight,nutrition,,3
+calori,nutrition,,3
+carbohydrat,nutrition,,3
+consume\\b,nutrition,,3
+consumpt\\b,nutrition,,3
+diabet,nutrition,,3
+diet,nutrition,,3
+energy,nutrition,,3
+feed\\b,nutrition,,3
+feeding,nutrition,,3
+fiber,nutrition,,1
+food,nutrition,,3
+fruit,nutrition,,3
+glucos,nutrition,,3
+insulin,nutrition,,3
+intake,nutrition,,3
+lactat,nutrition,,3
+lipid,nutrition,,3
+metabol,nutrition,,3
+milk,nutrition,,3
+nutrient,nutrition,,3
+nutrition,nutrition,,3
+starch,nutrition,,3
+sugar,nutrition,,3
+vegetable,nutrition,,3
+vitamin,nutrition,,3
+weight,nutrition,,1
+\\bchip[ -]seq\\b,theme1,,1
+\\bdna\\b,theme1,,1
+\\bgenes*\\b,theme1,,1
+\\bm phase,theme1,,3
+\\bmrnas*\\b,theme1,,1
+\\brnas*\\b,theme1,,1
+\\bs phase,theme1,,3
+\\bsirna\\b,theme1,,1
+abnormal,theme1,,5
+atresia,theme1,,5
+biomineraliz,theme1,,1
+birth defect,theme1,,3
+bone development,theme1,,3
+crest,theme1,,5
+cell division,theme1,,3
+cell growth,theme1,,3
+cell migration,theme1,,3
+cementogen,theme1,,3
+chondrogen,theme1,,3
+congenital,theme1,,3
+cytokinesis,theme1,,3
+dentinogen,theme1,,3
+developing embryo,theme1,,3
+developing fetus,theme1,,3
+developmental biology,theme1,,5
+defect,theme1,,5
+deform,theme1,,5
+development,theme1,,1
+differentiat,theme1,,3
+division,theme1,,1
+ectoderm,theme1,,5
+embryo,theme1,,3
+embryon,theme1,,5
+endoderm,theme1,,5
+epiblast,theme1,,5
+epigenet,theme1,,3
+epigenom,theme1,,3
+express,theme1,,1
+fate,theme1,,5
+anomal,theme1,,3
+gastrula,theme1,,5
+genetic,theme1,,1
+genesis\\b,theme1,,3
+genom,theme1,,1
+germ layer,theme1,,5
+hypoblast,theme1,,5
+implantation,theme1,,1
+inborn,theme1,,3
+lymphangiogen,theme1,,3
+lineag,theme1,,5
+malform,theme1,,5
+meiosis,theme1,,3
+meiotic,theme1,,3
+metaphas,theme1,,3
+mesenchym,theme1,,5
+mesoderm,theme1,,5
+mesonephro,theme1,,5
+methylation,theme1,,1
+mitosis,theme1,,3
+morphogen,theme1,,5
+morphol,theme1,,3
+morula,theme1,,3
+muscle develop,theme1,,3
+neural plate,theme1,,3
+\\btube,theme1,,3
+neurogen,theme1,,5
+neurulat,theme1,,5
+odontogen,theme1,,3
+organogen,theme1,,5
+osteogen,theme1,,3
+pericyte,theme1,,1
+phenotyp,theme1,,3
+pluripotent,theme1,,3
+post[ -]*nidat,theme1,,5
+post[ -]*implant,theme1,,5
+prenidat,theme1,,3
+progenitor,theme1,,3
+proliferat,theme1,,1
+regenerat,theme1,,5
+regulat,theme1,,1
+sequenc,theme1,,3
+signal,theme1,,3
+skeletal develop,theme1,,3
+skeletogen,theme1,,3
+skeleton development,theme1,,3
+somite,theme1,,3
+stem cell,theme1,,3
+tissue,theme1,,3
+teratogen,theme1,,5
+totipotent,theme1,,5
+transcrip,theme1,,3
+trophectoderm,theme1,,5
+variant,theme1,,3
+\\bamh\\b,theme2,,3
+\\bcolic\\b,theme2,,5
+\\beggs*\\b,theme2,,3
+\\bfsh\\b,theme2,,3
+\\bcctn\\b,theme2,,3
+\\bhcg\\b,theme2,,3
+\\biud\\b,theme2,,5
+\\bivf\\b,theme2,,5
+\\bovar,theme2,,5
+\\bovul,theme2,,5
+\\bpcos\\b,theme2,,5
+\\bpill,theme2,,1
+\\burinary\\b,theme2,,5
+\\burine\\b,theme2,,5
+acet,theme2,,3
+acrosom,theme2,,5
+activin,theme2,,5
+adenosin,theme2,,3
+amenorrhea,theme2,,5
+agglutin,theme2,,5
+aneuploid,theme2,,3
+androgen,theme2,,5
+angiogen,theme2,,3
+angiotensin,theme2,,3
+androl,theme2,,5
+antral,theme2,,5
+antrum,theme2,,5
+aromatas,theme2,,5
+autocrin,theme2,,1
+biocycl,theme2,,5
+bircwh,theme2,,5
+bladder,theme2,,5
+bleed,theme2,,1
+blastocyst,theme2,,1
+blastomere,theme2,,3
+centromere,theme2,,3
+cervi[cx],theme2,,5
+colon,theme2,,3
+cgmp,theme2,,5
+coital,theme2,,3
+conceiv,theme2,,5
+conception,theme2,,5
+conceptus,theme2,,5
+condom,theme2,,1
+contracept,theme2,,3
+contraind,theme2,,3
+copper,theme2,,1
+corticotropin,theme2,,3
+cramp,theme2,,3
+cryopreserv,theme2,,1
+cryptorchid,theme2,,5
+cytokin,theme2,,3
+decidua,theme2,,3
+duct,theme2,,3
+dysmenorrhea,theme2,,5
+ejaculat,theme2,,5
+endocrin,theme2,,5
+endometr,theme2,,5
+endovasc,theme2,,5
+epididym,theme2,,5
+estradiol,theme2,,5
+estrogen,theme2,,5
+estrous,theme2,,5
+expuls,theme2,,3
+fecund,theme2,,3
+fertil,theme2,,5
+fibroid,theme2,,5
+fibrot,theme2,,1
+floor,theme2,,3
+flora,theme2,,3
+follicl,theme2,,5
+\\bfos\\b,theme2,,3
+\\bfoxo,theme2,,1
+frozen,theme2,,3
+gamet,theme2,,5
+gastr,theme2,,3
+genital,theme2,,3
+germ cell,theme2,,5
+glucocorticoid,theme2,,1
+gnrh,theme2,,5
+gonad,theme2,,5
+granulosa,theme2,,5
+\\bgyn\\b,theme2,,3
+gynecol,theme2,,5
+hippo signal,theme2,,3
+haploid,theme2,,3
+hormon,theme2,,3
+hypothalam,theme2,,3
+hysterectom,theme2,,5
+incontin,theme2,,5
+infertil,theme2,,5
+inseminat,theme2,,5
+intercours,theme2,,1
+intra[ -]*uter,theme2,,3
+kallmann,theme2,,5
+kisspeptin,theme2,,5
+klinefelt,theme2,,5
+levonorgestrel,theme2,,5
+leydig,theme2,,5
+leiomyoma,theme2,,5
+llerian,theme2,,5
+luteal,theme2,,5
+lutein,theme2,,5
+luteum,theme2,,5
+luteoma,theme2,,5
+menstrua,theme2,,5
+mesh,theme2,,1
+melanocortin,theme2,,3
+menarch,theme2,,3
+menopaus,theme2,,3
+microsom,theme2,,1
+microbiom,theme2,,3
+microbiota,theme2,,3
+motil,theme2,,1
+myometr,theme2,,5
+nestoron,theme2,,5
+ob[ -]*gyn,theme2,,3
+ob\\/*gyn,theme2,,3
+oocyt,theme2,,5
+oogenes,theme2,,5
+oviduct,theme2,,5
+pfdn,theme2,,5
+penil,theme2,,1
+pelvi[sc],theme2,,3
+period,theme2,,3
+peritone,theme2,,5
+pituitar,theme2,,5
+primordi,theme2,,3
+polycyst,theme2,,5
+progester,theme2,,5
+progestin,theme2,,5
+prolaps,theme2,,5
+proteinuria,theme2,,3
+pubert,theme2,,5
+reproduct,theme2,,5
+\\brings*\\b,theme2,,3
+sem[ei]n,theme2,,3
+sertoli,theme2,,5
+\\bsperm,theme2,,5
+sterili[sz],theme2,,3
+steroid,theme2,,3
+stromal,theme2,,5
+testes,theme2,,5
+testic,theme2,,5
+testis,theme2,,5
+theca,theme2,,5
+testosteron,theme2,,5
+transderm,theme2,,1
+unintend,theme2,,3
+unplan,theme2,,1
+unwant,theme2,,3
+uteri,theme2,,5
+uterus,theme2,,5
+vagin,theme2,,5
+vasectom,theme2,,5
+villous,theme2,,3
+vulva,theme2,,5
+varicocel,theme2,,5
+vulvodyn,theme2,,5
+women's health,theme2,,3
+wrhr,theme2,,5
+zygote,theme2,,3
+\\bborn\\b,theme3,,3
+\\biugr\\b,theme3,,5
+\\blbw\\b,theme3,,5
+\\bptb\\b,theme3,,5
+abort(us|ion|ifacient),theme3,,5
+amnio,theme3,,5
+ante[ -]*nat,theme3,,5
+ante[ -]*part,theme3,,5
+babies,theme3,,1
+baby,theme3,,1
+birth,theme3,,3
+bottl,theme3,,1
+breast[ -]*fed,theme3,,5
+breast[ -]*feed,theme3,,5
+breast[ -]*milk,theme3,,5
+caproat,theme3,,3
+cesarean,theme3,,5
+caesarean,theme3,,5
+cervi[xc],theme3,,1
+childbirth,theme3,,5
+chorioamnion,theme3,,5
+chorion,theme3,,3
+contractil,theme3,,1
+decidua,theme3,,3
+dilat,theme3,,1
+eclamp[st],theme3,,5
+embryo,theme3,,3
+fetal,theme3,,3
+fetus,theme3,,3
+feto,theme3,,3
+\\bgdm\\b,theme3,,5
+gestat,theme3,,5
+gestos,theme3,,5
+gravid,theme3,,3
+gynecolog,theme3,,1
+in utero,theme3,,5
+intra[ -]*partum,theme3,,3
+intra[ -]*uterin,theme3,,3
+labor\\b,theme3,,1
+lactating,theme3,,5
+lactation,theme3,,5
+low birth weight,theme3,,5
+mammar[yi],theme3,,1
+matern,theme3,,3
+maternal morbid,theme3,,5
+maternal mortal,theme3,,5
+mfmu,theme3,,5
+milk,theme3,,3
+miscarriag,theme3,,5
+miscarry,theme3,,5
+motherhood,theme3,,5
+obstetric,theme3,,5
+parturient,theme3,,5
+parturit,theme3,,5
+peri[ -]*nat,theme3,,5
+peri[ -]*part,theme3,,5
+placent,theme3,,5
+post[ -]*natal,theme3,,5
+post[ -]*part,theme3,,5
+preeclamp[st],theme3,,5
+pregnan[ct],theme3,,5
+prematur,theme3,,1
+pre[ -]*nat,theme3,,5
+preterm,theme3,,5
+puerperal,theme3,,5
+ripen,theme3,,1
+spiral,theme3,,3
+stillbirth,theme3,,5
+stillborn,theme3,,5
+tocolyt,theme3,,5
+trimest,theme3,,3
+trophoblast,theme3,,5
+umbilic,theme3,,3
+villi,theme3,,3
+villous,theme3,,5
+vertical(ly)* transfer,theme3,,5
+vertical(ly)* transmi,theme3,,5
+vlbw,theme3,,5
+womb,theme3,,1
+\\b[0-9][ -]years*[ -]old,theme4,,5
+\\b1[0-2][ -]years*[ -]old,theme4,,5
+\\bage\\b,theme4,,3
+\\baged [0-9]\\b,theme4,,5
+\\baged 1[0-9]\\b,theme4,,5
+\\bages* [0-9]\\b,theme4,,5
+\\bages* 1[0-9]\\b,theme4,,5
+\\baging\\b,theme4,,1
+\\bboys*\\b,theme4,,3
+\\bidd\\b,theme4,,3
+\\biddrcs*\\b,theme4,,3
+\\bk[ -]12\\b,theme4,,3
+\\bk12\\b,theme4,,3
+\\bkid[s]*\\b,theme4,,5
+\\bmis[ -]c\\b,theme4,,5
+\\bnrn\\b,theme4,,3
+\\bold\\b,theme4,,1
+\\bpre[ -]school,theme4,,3
+\\bpre[ -]teen,theme4,,5
+\\bteddy\\b,theme4,,1
+\\bteen,theme4,,5
+1[3-9][ -]years*[ -]old,theme4,,5
+adolesc,theme4,,5
+babies,theme4,,5
+baby,theme4,,5
+bilingual,theme4,,3
+birth cohort,theme4,,5
+child,theme4,,5
+classroom,theme4,,1
+congenital,theme4,,1
+day care,theme4,,3
+xdemograph,theme4,,3
+development,theme4,,1
+developmental disab,theme4,,3
+developmental disord,theme4,,3
+developmentally disab,theme4,,3
+early life,theme4,,3
+educat,theme4,,3
+elder\\b,theme4,,1
+elementary[ -]school,theme4,,3
+familial,theme4,,3
+families,theme4,,3
+family,theme4,,3
+father,theme4,,1
+girl,theme4,,3
+grade,theme4,,1
+grow,theme4,,1
+high[ -]school,theme4,,3
+infant,theme4,,5
+intellectual(ly)* disab,theme4,,3
+juvenile,theme4,,3
+kindergarden,theme4,,3
+languag,theme4,,3
+learning,theme4,,3
+life stage,theme4,,1
+lifespan,theme4,,1
+middle[ -]school,theme4,,3
+neonat,theme4,,5
+newborn,theme4,,5
+parent,theme4,,1
+pediatric,theme4,,5
+prematur,theme4,,1
+preschool,theme4,,3
+preteen,theme4,,5
+pubert,theme4,,3
+pubesc,theme4,,5
+xpopulation data,theme4,*,5
+xpopulation dynamic,theme4,*,5
+xpopulation center,theme4,*,5
+xpopulation health,theme4,*,5
+xpopulation stud,theme4,*,5
+xpopulation scienc,theme4,*,5
+xpopulation research,theme4,*,5
+xpopulation,theme4,*,3
+toddler,theme4,,5
+ymsm,theme4,,5
+young,theme4,,3
+young adult,theme4,,5
+young person,theme4,,5
+young people,theme4,,5
+youth,theme4,,5
+violenc,theme4,*,3
+firearm,theme4,*,3
+trauma,theme4,*,3
+\\bipv\\b,theme4,*,3
+\\badhd\\b,theme4,*,3
+\\basd\\b,theme4,*,3
+autis[mi],theme4,*,3
+fragile x,theme4,*,3
+\\bfxs\\b,theme4,*,3
+xbrain,theme4,*,3
+xneurolog,theme4,*,3
+xbehav,theme4,*,1
+xcognit,theme4,*,3
+[mnrsgl]ib\\b,theme5,,3
+[mnt]ide\\b,theme5,,3
+\\bbiologic\\b,theme5,,3
+\\bbiologics\\b,theme5,,3
+\\bfda\\b,theme5,,3
+\\bpill\\b,theme5,,1
+\\bpills\\b,theme5,,1
+\\bpk\\b,theme5,,3
+acetaminophen,theme5,,5
+administer,theme5,,1
+administr,theme5,,1
+advers,theme5,,3
+agent,theme5,,1
+agonist,theme5,,3
+analges,theme5,,3
+analget,theme5,,3
+anesthes,theme5,,3
+anesthet,theme5,,3
+antagonist,theme5,,3
+anti[ -]biot,theme5,,5
+anti[ -]covid,theme5,,3
+anti[ -]depress,theme5,,5
+anti[ -]inflammat,theme5,,5
+anti[ -]microb,theme5,,5
+anti[ -]vir,theme5,,5
+antibiot,theme5,,5
+anticovid,theme5,,3
+antidepress,theme5,,5
+antiinflammat,theme5,,5
+antimicrob,theme5,,5
+antivir,theme5,,5
+approv,theme5,,1
+aspirin,theme5,,3
+azithromycin,theme5,,3
+benefit,theme5,,1
+betamethasone,theme5,,5
+bioavailab,theme5,,3
+candid,theme5,,1
+chemic,theme5,,1
+chloroquin,theme5,,5
+compound,theme5,,1
+concentr,theme5,,1
+convalesc,theme5,,1
+corticosteroid,theme5,,1
+xdeliver,theme5,,1
+dexamethason,theme5,,5
+devic,theme5,,3
+discovery,theme5,,1
+dosag,theme5,,3
+dose,theme5,,1
+drug,theme5,,3
+drug delivery,theme5,,5
+drug discovery,theme5,,5
+efficac,theme5,,1
+generic,theme5,,3
+hospital,theme5,,1
+hydroxychloroquin,theme5,,5
+immunomodul,theme5,,1
+infusion,theme5,,1
+inhibit,theme5,,1
+inhibitor,theme5,,3
+inject,theme5,,1
+intravenous,theme5,,1
+intubat,theme5,,1
+ivermectin,theme5,,5
+ligand,theme5,,3
+mab\\b,theme5,,3
+manag,theme5,,1
+medicat,theme5,,1
+microbicid,theme5,,3
+nanoparticl,theme5,,3
+nanotech,theme5,,3
+nsaid,theme5,,5
+nutritional supplement,theme5,,5
+open[ -]label,theme5,,3
+opioid,theme5,,3
+option,theme5,,1
+oxygen,theme5,,1
+peptid,theme5,,1
+pharmac,theme5,,5
+placebo,theme5,,3
+plasma,theme5,,1
+prazole\\b,theme5,,3
+prescrib,theme5,,3
+prescript,theme5,,3
+prophylact,theme5,,1
+prophylax,theme5,,1
+receptor,theme5,,1
+regimen,theme5,,1
+release,theme5,,1
+remdesivir,theme5,,5
+repurpos,theme5,,1
+safet,theme5,,1
+small[ -]molecul,theme5,,5
+solubl,theme5,,1
+supplement,theme5,,1
+ssris*,theme5,,5
+target,theme5,,1
+therap[yi],theme5,,1
+therapeut,theme5,,1
+tocilizumab,theme5,,1
+tolerat,theme5,,1
+toxic,theme5,,3
+treat\\b,theme5,,1
+treatment,theme5,,1
+vaccin,theme5,,3
+vastatin\\b,theme5,,3
+vec\\b,theme5,,3
+vir\\b,theme5,,3
+vitamin,theme5,,1
+vteu,theme5,,3
